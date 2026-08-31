@@ -147,7 +147,7 @@ Deploying is not the end of the work. I have done production support, monitoring
 
 <br>
 
-**Tech Solutions.ae** &nbsp;·&nbsp; Python Developer &nbsp;·&nbsp; Sharjah, UAE &nbsp;·&nbsp; Mar 2026 – Present
+**Tech Solutions.ae** &nbsp;·&nbsp; Python Developer &nbsp;·&nbsp; Sharjah, UAE &nbsp;·&nbsp; Mar 2026 – August 2026
 
 Production ETL pipelines, backend automation, and cloud services in Python and AWS. Promoted from junior to mid within three months. Currently handling pipeline reliability, API development, monitoring, and deployment across an international team.
 
@@ -296,7 +296,7 @@ The architecture question is always secondary to the product question. Getting t
 
 ### Currently
 
-Working with distributed data pipelines and cloud services at Tech Solutions. In my own time, thinking more carefully about how AI systems are evaluated rather than just built, and how to make backend services that are genuinely observable rather than just monitored.
+In my own time, thinking more carefully about how AI systems are evaluated rather than just built, and how to make backend services that are genuinely observable rather than just monitored.
 
 Open to problems in AI infrastructure, backend architecture, data engineering, and anything that sits at the intersection of systems and product.
 
