@@ -1,109 +1,62 @@
 <!-- ============================================================
-     ARHAM MALIK — GITHUB PROFILE README
-     Color Palette:
-       #0D0D0D  — near black (background feel)
-       #1A1A2E  — deep navy base
-       #E8E0D5  — warm off-white (primary text)
-       #C17D3C  — warm amber/copper (accent)
-       #7B5EA7  — muted violet (secondary accent)
-       #2E2E3A  — graphite (surface / card bg)
+     ARHAM MALIK · GITHUB PROFILE README
+     Matches the light theme of arham-nexus.vercel.app
+       #F7F2EA  warm off white paper     #E9543A  tomato
+       #FFFCF6  cream card               #F4B134  marigold
+       #231A1F  warm ink                 #C4B2EC  lilac
+                                         #58284E  plum
      ============================================================ -->
 
-<!-- HERO -->
+<!-- ─────────────── HERO ─────────────── -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,40:1A1A2E,100:2E1A4A&height=260&section=header&text=Arham%20Malik&fontSize=62&fontColor=E8E0D5&animation=fadeIn&fontAlignY=42&desc=Backend%20%20%7C%20%20AI%20Systems%20%20%7C%20%20Data%20Engineering&descSize=16&descAlignY=64&descAlign=50" alt="Arham Malik header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7F2EA,45:F4B134,100:E9543A&height=240&section=header&text=Hello,%20I'm%20Arham.&fontSize=58&fontColor=231A1F&animation=fadeIn&fontAlignY=38&desc=Backend%20and%20Data%20Engineer%20%C2%B7%20Python%20%C2%B7%20Cloud%20%C2%B7%20Practical%20AI&descSize=17&descAlignY=58" alt="Hello, I'm Arham" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=400&size=20&duration=2600&pause=900&color=E9543A&center=true&vCenter=true&width=720&height=44&lines=I+build+backends+that+make+people+smile.;I+build+data+pipelines+that+make+people+smile.;I+build+ledgers+that+always+balance.;I+build+cloud+systems+that+keep+humming.;I+build+AI+features+that+earn+their+place." alt="I build backends that make people smile" />
+</p>
+
+<p align="center">
+  <a href="https://arham-nexus.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-E9543A?style=for-the-badge&logo=vercel&logoColor=FFFCF6" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/arham-malik-943152352/"><img src="https://img.shields.io/badge/LinkedIn-58284E?style=for-the-badge&logoColor=FFFCF6" alt="LinkedIn" /></a>
+  <a href="mailto:arham3311@outlook.com"><img src="https://img.shields.io/badge/Say%20hello-F4B134?style=for-the-badge&logo=maildotru&logoColor=231A1F" alt="Email" /></a>
+  <a href="https://arham-nexus.vercel.app/ArhamMalikResume.pdf"><img src="https://img.shields.io/badge/Grab%20my%20CV-C4B2EC?style=for-the-badge&logo=readdotcv&logoColor=231A1F" alt="CV" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Arham331&label=visitors&color=231A1F&style=for-the-badge&labelColor=E9543A" alt="Profile views" />
 </p>
 
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=C17D3C&center=true&vCenter=true&multiline=false&width=780&height=36&lines=3.5%2B+years+building+things+that+run+in+production;APIs+%C2%B7+data+pipelines+%C2%B7+AI+systems+%C2%B7+cloud+infrastructure;Islamabad+%E2%86%92+UAE+%E2%86%92+wherever+the+problem+is+interesting" alt="Typing animation" />
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://arham-nexus.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/arham--nexus.vercel.app-1A1A2E?style=flat-square&logo=vercel&logoColor=C17D3C&labelColor=1A1A2E&color=2E2E3A" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/arham-malik-943152352/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1A1A2E?style=flat-square&logo=linkedin&logoColor=7B5EA7&labelColor=1A1A2E&color=2E2E3A" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:arham3311@outlook.com">
-    <img src="https://img.shields.io/badge/arham3311@outlook.com-1A1A2E?style=flat-square&logo=microsoftoutlook&logoColor=C17D3C&labelColor=1A1A2E&color=2E2E3A" alt="Email" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Arham331&label=profile+views&color=2E2E3A&style=flat-square&labelColor=1A1A2E" alt="Profile views" />
-</p>
-
-<br>
-<br>
-
----
-
-<!-- ABOUT -->
-
-### The Layer Underneath
-
-Most software is straightforward on the surface. You click something, something happens. What I find interesting is the part between those two events.
-
-I have spent about three and a half years working across that middle layer: the APIs, the pipelines, the services and queues and schemas that make a product actually function. I have done this at a startup building AI products, at a fintech company handling live banking transactions, at a data engineering consultancy, and with international clients who needed someone who could take a vague problem and turn it into a working system.
-
-The stack varies depending on what the job requires. The approach does not.
-
-I try to understand what a system actually needs to do before I decide how to build it. I have worked across enough contexts to know that complexity can be a design failure as easily as it can be a design requirement. I prefer systems that are boring to operate, which means they probably were not boring to design.
-
-My background spans backend engineering, AI systems and LLM integration, data pipelines and analytics infrastructure, and cloud deployments across AWS and GCP. I have gone from intern to junior to engineer to something closer to technical ownership at each place I have worked, usually faster than the original timeline expected.
-
-<br>
-
----
-
-<!-- ENGINEERING IDENTITY -->
-
-### How I Operate
+<!-- ─────────────── ABOUT ─────────────── -->
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="62%" valign="top">
 
-**Backend Systems**
+### 👋 &nbsp;A little about me
 
-I write APIs that I expect to be read by other engineers later. That changes how careful you are about structure, naming, documentation, and error handling. FastAPI and Spring Boot are where most of my time has gone, but the framework matters less than whether the service is actually reliable.
+I like the parts of software nobody sees. **The ledger that always balances, the pipeline that runs at 3am without a fuss, the API that answers before you finish blinking.**
 
-*Python · FastAPI · Django · Flask · Java · Spring Boot · REST · OpenAPI · JWT · WebSockets · Microservices*
+For the last three years I have been building backend services, data pipelines and cloud workloads across fintech, core banking and analytics. Right now I am helping shape the backend of a savings platform that has not launched yet: I wrote its architecture, designed the database around a ledger that never forgets, and built the services on top.
 
-</td>
-<td valign="top" width="50%">
-
-**Data Infrastructure**
-
-A lot of backend failures I have seen were really data failures. Bad schemas, unindexed queries, pipelines that nobody trusted anymore. I have optimized enough of these to know that fixing the data layer often fixes the product.
-
-*ETL · BigQuery · Pandas · Polars · PostgreSQL · Kafka · Query Optimization · Data Modeling*
+I care about AI when it earns its place in a real product. LangChain agents, retrieval and OCR are tools in the kit, not the whole story. Outside work you will usually find me tinkering with game engines.
 
 </td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+<td width="38%" valign="top">
 
-**AI Systems Engineering**
+### ✦ &nbsp;Quick facts
 
-I am less interested in calling an LLM than in building the infrastructure around it. Retrieval pipelines, evaluation loops, orchestration, latency budgets. The interesting work is usually not in the model.
+💼 &nbsp;Backend Engineer at **Renegade Solutions Asia**
 
-*LangChain · RAG · Vector Databases · NLP · LLM Integration · Workflow Automation · Prompt Engineering*
+📍 &nbsp;Islamabad, Pakistan
 
-</td>
-<td valign="top" width="50%">
+🌍 &nbsp;Open to relocating **anywhere**, visa sponsorship welcome, remote friendly
 
-**Cloud and Production**
+🎓 &nbsp;BS Computer Science, **FAST NUCES**
 
-Deploying is not the end of the work. I have done production support, monitoring, incident response, and the unglamorous job of keeping things running across releases. Knowing what a system looks like under load changes how you design it beforehand.
+🐍 &nbsp;Python is home
 
-*AWS · GCP · Docker · Jenkins · Lambda · Pub/Sub · Cloud Functions · CI/CD · CloudWatch*
+🎮 &nbsp;Made a game that holds **60 FPS** on the oldest laptop in the room
 
 </td>
 </tr>
@@ -111,261 +64,377 @@ Deploying is not the end of the work. I have done production support, monitoring
 
 <br>
 
----
+<!-- ─────────────── NUMBERS ─────────────── -->
 
-<!-- IMPACT METRICS -->
-
-### Numbers That Came From Actual Work
-
-<br>
-
-<div align="center">
-
-| &nbsp; | Metric | Context |
-|:---:|:---|:---|
-| `60%` | Query latency reduced | Partitioning, indexing, schema redesign on GCP analytics systems at RedCoast |
-| `80%` | AI workflows automated | GCP Cloud Functions, Pub/Sub, Cloud Scheduler replacing manual pipeline operations |
-| `60%` | Data throughput increase | Automated backfill pipelines for AI features at RedCoast |
-| `40%` | Query performance gain | WebSocket and Redis architecture in the Avenix platform |
-| `30%` | Data scan costs reduced | Query optimization and schema partitioning changes |
-| `15%` | ETL runtime reduction | Pipeline restructuring at RedCoast |
-| `<150ms` | p95 API latency | FastAPI microservices built for AI and data features |
-| `100+` | Data sources integrated | Multi-tenant analytics platform at Apex Analytics |
-| `50+` | Internal analytics users | Dashboards that replaced manual reporting |
-| `60 FPS` | Sustained game performance | Low-end hardware, procedural generation, object pooling in unHinged |
-| `3.5+` | Years in production | Across four companies, three countries, multiple domains |
-
-</div>
-
-<br>
-
----
-
-<!-- CAREER -->
-
-### Where I Have Worked
-
-<br>
-
-**Tech Solutions.ae** &nbsp;·&nbsp; Python Developer &nbsp;·&nbsp; Sharjah, UAE &nbsp;·&nbsp; Mar 2026 – August 2026
-
-Production ETL pipelines, backend automation, and cloud services in Python and AWS. Promoted from junior to mid within three months. Currently handling pipeline reliability, API development, monitoring, and deployment across an international team.
-
-<br>
-
-**Zindigi** &nbsp;·&nbsp; Junior Java Developer &nbsp;·&nbsp; Islamabad &nbsp;·&nbsp; Nov 2025 – Mar 2026
-
-Backend microservices for a core banking platform. The constraint of working in financial infrastructure where a bad query or a race condition has immediate consequences changes how carefully you think about database operations and API contracts.
-
-<br>
-
-**RedCoast** &nbsp;·&nbsp; Software Trainee → Junior Software Engineer → Software Engineer &nbsp;·&nbsp; Islamabad &nbsp;·&nbsp; May 2024 – Nov 2025
-
-Three promotions across eighteen months. Worked across GCP-based analytics, FastAPI services, AI/ML orchestration, and data infrastructure. The 60% latency reduction and 80% automation numbers came from here. This is where I learned that ownership of a system means owning it when things go wrong, not just when the feature ships.
-
-<br>
-
-**PTCL** &nbsp;·&nbsp; Workforce Planning and Automation Intern &nbsp;·&nbsp; Islamabad &nbsp;·&nbsp; Jun 2023 – Dec 2023
-
-Internal task management system in C#, ASP.NET MVC, and SQL Server. First exposure to enterprise scale data retrieval problems and why good schema design is not optional.
-
-<br>
-
----
-
-<!-- PROJECTS -->
-
-### Things I Have Built
-
-<br>
-
-#### Avenix — Enterprise AI Analytics Platform
-
-An AI platform that needed to feel fast despite doing expensive things underneath. The architecture combines LLM agents with contextual memory, a WebSocket and Redis layer for updates that arrive in under a second, and a FastAPI backend that handles query load without becoming the bottleneck. The 40% query performance gain came from being deliberate about caching strategy and pipeline design rather than raw compute.
-
-`FastAPI` `React` `TypeScript` `LangChain` `PostgreSQL` `Redis` `WebSockets`
-
-<br>
-
-#### Apex Analytics — Multi-Tenant Data Platform
-
-Connecting 100+ heterogeneous data sources into one coherent analytics surface is mostly a problem of schema normalization, pipeline resilience, and trust. If the data looks wrong to the user, it does not matter how fast it loads. This project was about making the ETL layer reliable enough that reporting became a solved problem rather than a weekly debugging session.
-
-`Django` `React` `BigQuery` `PostgreSQL` `Docker` `GCP`
-
-<br>
-
-#### Addictive Ads — AI Receipt and Ad Intelligence Platform
-
-OCR plus LLM prompt engineering for structured financial data extraction. The interesting constraint here was that receipts are unstructured and inconsistent, so the extraction pipeline needed to be designed around failure modes, not just the happy path. Most of the engineering work was in validation, correction, and knowing when to reject output rather than trust it.
-
-`Django` `Next.js` `MongoDB` `LLM Prompt Engineering`
-
-<br>
-
-#### EvaluaSys AI — AI Evaluation Portal
-
-Automated assessment, plagiarism detection, voice interaction, and quiz validation under one system. The challenge was building NLP pipelines that needed to be accurate enough to be trusted for evaluation rather than just demonstration purposes. Evaluation AI is a harder problem than it sounds because the failure modes matter.
-
-`Flask` `React` `MongoDB` `LangChain` `NLP`
-
-<br>
-
-#### unHinged — 2D Psychological Survival Game
-
-> **Best FYP Award · FAST NUCES · 2025**
-
-My Final Year Project, and the one I am probably most proud of. Not because games are my primary domain but because the constraint was unusual: model hallucinations, fear, and dementia as mechanics that change how the game actually behaves, not just as visual decoration.
-
-The Fear Meter alters audio and rendering behavior in real time. Procedural generation keeps levels unstable in ways that mirror the psychological state of the character. The technical challenge was making all of this run at a stable 60 FPS on low-end hardware, which required careful object pooling, AI system design, and performance profiling throughout development.
-
-This was the project where I learned what it means to design for a constraint that you cannot simply throw compute at.
-
-`Godot` `C#` `Procedural Generation` `Dynamic AI Systems`
-
-<br>
-
----
-
-<!-- TECH STACK -->
-
-### Stack
+<h3 align="center">📈 &nbsp;Small numbers, big smiles</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask&theme=dark&perline=4" alt="Python, FastAPI, Django, Flask" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java,spring&theme=dark&perline=2" alt="Java, Spring Boot" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs&theme=dark&perline=3" alt="TypeScript, React, Next.js" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark&perline=4" alt="PostgreSQL, MongoDB, MySQL, Redis" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes&theme=dark&perline=4" alt="AWS, GCP, Docker, Kubernetes" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,jenkins&theme=dark&perline=4" alt="Git, GitHub, Linux, Jenkins" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cs,godot&theme=dark&perline=2" alt="C#, Godot" />
-</p>
-
-<p align="center">
-  <sub>Python is home. Java when banking infrastructure requires it. Everything else gets chosen when the problem justifies it.</sub>
-</p>
-
-<br>
-
----
-
-<!-- PHILOSOPHY -->
-
-### How I Think About Engineering
-
-<br>
-
-**The system you cannot explain is probably not the system you should build.**
-Complexity that cannot be justified during design review tends to become unmanageable during incident response.
-
-<br>
-
-**Production is the only honest feedback.**
-Staging environments are useful. They are not the same thing. The assumptions you make in development that turn out to be wrong always show up in production first.
-
-<br>
-
-**Measure before you optimize. Read the query plan.**
-A surprising number of performance problems are not caused by the thing everyone suspects. The fix is usually simpler than the proposed solution, once you know where the time actually goes.
-
-<br>
-
-**Ownership means something different at 3am than it does at standup.**
-I try to build systems that I would be comfortable debugging alone at an inconvenient hour. That constraint produces different decisions than optimizing for demo day.
-
-<br>
-
-**Understand what the system is for before designing how it works.**
-The architecture question is always secondary to the product question. Getting them in the wrong order is how you build something technically impressive that solves the wrong problem.
-
-<br>
-
----
-
-<!-- CURRENTLY -->
-
-### Currently
-
-In my own time, thinking more carefully about how AI systems are evaluated rather than just built, and how to make backend services that are genuinely observable rather than just monitored.
-
-Open to problems in AI infrastructure, backend architecture, data engineering, and anything that sits at the intersection of systems and product.
-
-<br>
-
----
-
-<!-- GITHUB ACTIVITY -->
-
-### Activity
-
-<p align="center">
-  <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arham331&theme=github-compact&bg_color=0D0D0D&color=C17D3C&line=7B5EA7&point=E8E0D5&area=true&area_color=2E2E3A&hide_border=true" alt="GitHub contribution graph" />
-</p>
-
-<br>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arham331&show_icons=true&theme=dark&hide_border=true&rank_icon=github&title_color=C17D3C&icon_color=7B5EA7&text_color=E8E0D5&bg_color=0D0D0D&cache_seconds=1800" alt="GitHub stats" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arham331&layout=compact&theme=dark&hide_border=true&title_color=C17D3C&text_color=E8E0D5&bg_color=0D0D0D&langs_count=7&cache_seconds=1800" alt="Top languages" />
-</p>
-
-<br>
-
----
-
-<!-- EDUCATION -->
-
-### Education
-
-**BS Computer Science** &nbsp;·&nbsp; FAST NUCES Islamabad &nbsp;·&nbsp; 2021 – 2025
-
-> **Best FYP Award** for unHinged, a procedural generation system that treats hallucination, fear, and dementia as core gameplay mechanics rather than surface-level aesthetic choices.
-
-<br>
-
----
-
-<!-- CONTACT -->
-
-### If You Have Something Worth Building
-
-I am open to remote roles, international teams, and problems that are genuinely difficult. If what you are working on sits somewhere in backend systems, AI infrastructure, data engineering, or the combination of all three, it is probably worth a conversation.
-
-I am not looking for the next job posting. I am looking for the next interesting problem.
-
-<p align="center">
+  <img src="https://img.shields.io/badge/60%25-faster%20queries%20on%20GCP-FFFCF6?style=for-the-badge&labelColor=E9543A" alt="60% faster queries" />
+  <img src="https://img.shields.io/badge/80%25-ML%20orchestration%20automated-FFFCF6?style=for-the-badge&labelColor=F4B134" alt="80% ML orchestration automated" />
+  <img src="https://img.shields.io/badge/48%2B-tables%20in%20one%20migration-FFFCF6?style=for-the-badge&labelColor=C4B2EC" alt="48+ tables in one migration" />
   <br>
-  <a href="https://arham-nexus.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2E2E3A?style=for-the-badge&logo=vercel&logoColor=C17D3C" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/arham-malik-943152352/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2E2E3A?style=for-the-badge&logo=linkedin&logoColor=7B5EA7" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:arham3311@outlook.com">
-    <img src="https://img.shields.io/badge/Email-2E2E3A?style=for-the-badge&logo=microsoftoutlook&logoColor=C17D3C" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Arham331" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-2E2E3A?style=for-the-badge&logo=github&logoColor=E8E0D5" alt="GitHub" />
-  </a>
+  <img src="https://img.shields.io/badge/128-page%20architecture%20doc-FFFCF6?style=for-the-badge&labelColor=58284E" alt="128 page architecture document" />
+  <img src="https://img.shields.io/badge/%3C150ms-p95%20API%20latency-FFFCF6?style=for-the-badge&labelColor=E9543A" alt="Under 150ms p95 latency" />
+  <img src="https://img.shields.io/badge/30%25-lower%20scan%20costs-FFFCF6?style=for-the-badge&labelColor=F4B134" alt="30% lower scan costs" />
+  <br>
+  <img src="https://img.shields.io/badge/100%2B-data%20sources%20unified-FFFCF6?style=for-the-badge&labelColor=C4B2EC" alt="100+ data sources" />
+  <img src="https://img.shields.io/badge/50%2B-daily%20dashboard%20users-FFFCF6?style=for-the-badge&labelColor=58284E" alt="50+ dashboard users" />
+  <img src="https://img.shields.io/badge/3%20mo-junior%20to%20mid level-FFFCF6?style=for-the-badge&labelColor=E9543A" alt="Promoted in 3 months" />
 </p>
 
 <br>
+
+<!-- ─────────────── WHAT I DO ─────────────── -->
+
+### 🛠️ &nbsp;Ways I can help your team
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+🟥 &nbsp;**Backend systems**
+
+APIs and services that stay fast, secure and easy to reason about as the product grows.
+
+<sub>FastAPI · Django · Spring Boot · JWT · MFA · RBAC · OpenAPI</sub>
+
+</td>
+<td width="33%" valign="top">
+
+🟨 &nbsp;**Data pipelines**
+
+ETL and backfills that move data reliably, so your dashboards tell the truth every morning.
+
+<sub>BigQuery · Pandas · Polars · partitioning · indexing · migrations</sub>
+
+</td>
+<td width="33%" valign="top">
+
+🟪 &nbsp;**Fintech foundations**
+
+Ledgers, reconciliation and money movement designed so a retry never pays anyone twice.
+
+<sub>Double entry ledgers · transactional outbox · idempotent workers</sub>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+🟥 &nbsp;**Cloud and DevOps**
+
+Infrastructure on AWS and GCP that ships often and wakes nobody up at night.
+
+<sub>Lambda · S3 · Cloud Functions · Pub/Sub · Docker · Jenkins</sub>
+
+</td>
+<td width="33%" valign="top">
+
+🟨 &nbsp;**Practical AI**
+
+LLM features wired into real systems, with guardrails, memory and a clear reason to exist.
+
+<sub>LangChain agents · RAG · vector search · OCR plus LLM extraction</sub>
+
+</td>
+<td width="33%" valign="top">
+
+🟪 &nbsp;**Architecture on paper**
+
+Decisions written down before code, so the whole team can see the plan and the risks.
+
+<sub>C4 model · ADRs · STRIDE threat modelling · modular monoliths</sub>
+
+</td>
+</tr>
+</table>
+
 <br>
 
+<!-- ─────────────── WORK ─────────────── -->
+
+### 🎨 &nbsp;Things I have built and still feel proud of
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🟥 &nbsp;[Avenix](https://arham-nexus.vercel.app/work/avenix)
+<sub>**2025 · Lead developer**</sub>
+
+*An AI analytics platform that remembers context.* LangChain agents with memory, live dashboards and a Redis plus WebSocket pipeline that lands updates in under a second. Shipped three months early with queries 40% faster.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-FFFCF6?style=flat-square&logo=fastapi&logoColor=E9543A)
+![LangChain](https://img.shields.io/badge/LangChain-FFFCF6?style=flat-square&logo=langchain&logoColor=E9543A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFCF6?style=flat-square&logo=postgresql&logoColor=E9543A)
+![Redis](https://img.shields.io/badge/Redis-FFFCF6?style=flat-square&logo=redis&logoColor=E9543A)
+![React](https://img.shields.io/badge/React-FFFCF6?style=flat-square&logo=react&logoColor=E9543A)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🟨 &nbsp;[Apex Analytics](https://arham-nexus.vercel.app/work/apex-analytics)
+<sub>**2026 · Architect**</sub>
+
+*One home for a hundred data sources.* A multi tenant analytics platform with real time BigQuery ETL and reporting APIs that each team can shape themselves. Dashboards load in under a second.
+
+![Django](https://img.shields.io/badge/Django-FFFCF6?style=flat-square&logo=django&logoColor=B07A12)
+![BigQuery](https://img.shields.io/badge/BigQuery-FFFCF6?style=flat-square&logo=googlebigquery&logoColor=B07A12)
+![GCP](https://img.shields.io/badge/GCP-FFFCF6?style=flat-square&logo=googlecloud&logoColor=B07A12)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFCF6?style=flat-square&logo=postgresql&logoColor=B07A12)
+![Docker](https://img.shields.io/badge/Docker-FFFCF6?style=flat-square&logo=docker&logoColor=B07A12)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🟪 &nbsp;[Addictive Ads](https://arham-nexus.vercel.app/work/addictive-ads)
+<sub>**2025 · Full stack engineer**</sub>
+
+*Receipts in, clean financial data out.* OCR plus carefully tuned prompts turn crumpled receipts into structured records, feeding real time campaign analytics.
+
+![Django](https://img.shields.io/badge/Django-FFFCF6?style=flat-square&logo=django&logoColor=58284E)
+![MongoDB](https://img.shields.io/badge/MongoDB-FFFCF6?style=flat-square&logo=mongodb&logoColor=58284E)
+![Next.js](https://img.shields.io/badge/Next.js-FFFCF6?style=flat-square&logo=nextdotjs&logoColor=58284E)
+![OCR + LLMs](https://img.shields.io/badge/OCR%20%2B%20LLMs-FFFCF6?style=flat-square&logo=openai&logoColor=58284E)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🟫 &nbsp;[EvaluaSys AI](https://arham-nexus.vercel.app/work/evaluasys)
+<sub>**2025 · Backend developer**</sub>
+
+*An exam portal that listens and grades.* NLP driven assessment with voice answers, plagiarism checks and quizzes generated from each submission.
+
+![Flask](https://img.shields.io/badge/Flask-FFFCF6?style=flat-square&logo=flask&logoColor=58284E)
+![LangChain](https://img.shields.io/badge/LangChain-FFFCF6?style=flat-square&logo=langchain&logoColor=58284E)
+![MongoDB](https://img.shields.io/badge/MongoDB-FFFCF6?style=flat-square&logo=mongodb&logoColor=58284E)
+![NLP](https://img.shields.io/badge/NLP-FFFCF6?style=flat-square&logo=spacy&logoColor=58284E)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🟥 &nbsp;[unHinged](https://arham-nexus.vercel.app/work/unhinged)
+<sub>**2025 · Game developer · Recognised by FAST NUCES**</sub>
+
+*A small game about a loud mind.* A 2D psychological survival game where a fear meter bends what you see and procedural maps change every run, all at a steady 60 FPS on modest machines.
+
+![Godot](https://img.shields.io/badge/Godot-FFFCF6?style=flat-square&logo=godotengine&logoColor=E9543A)
+![C#](https://img.shields.io/badge/C%23-FFFCF6?style=flat-square&logo=dotnet&logoColor=E9543A)
+![Procedural](https://img.shields.io/badge/Procedural%20generation-FFFCF6?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🟨 &nbsp;[Meme Classifier](https://arham-nexus.vercel.app/work/meme-classifier)
+<sub>**2024 · AI engineer**</sub>
+
+*Teaching a model to get the joke.* Vision and language pipelines plus OCR, fused into one model that reads the picture and the caption together.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-FFFCF6?style=flat-square&logo=pytorch&logoColor=B07A12)
+![OpenCV](https://img.shields.io/badge/OpenCV-FFFCF6?style=flat-square&logo=opencv&logoColor=B07A12)
+![NLP](https://img.shields.io/badge/NLP-FFFCF6?style=flat-square&logo=spacy&logoColor=B07A12)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>✦ &nbsp;And a few more from the tinkering drawer</b></summary>
+<br>
+
+| Project | What it is | Built with |
+|:---|:---|:---|
+| **Skill Swap** · 2023 | Peer learning where anyone can switch between teacher and student, with live chat and video | Spring Boot, WebSockets, WebRTC |
+| **TA Lab Portal** · 2024 | Hand out, track and grade lab work with proper role based access | ASP.NET, SQL Server |
+| **TableAI** · 2024 | Clash free school timetables from genetic algorithms and constraint solving | Python, NumPy, Pandas |
+| **Raah e Raast** · 2023 | Pairs tourists with local guides, with live location and offline support | Android, Firebase |
+| **Ping 2.0** · 2024 | Ping pong reimagined with real physics and online multiplayer over UDP | C++, SFML |
+
+</details>
+
+<br>
+
+<!-- ─────────────── JOURNEY ─────────────── -->
+
+### 🧭 &nbsp;The journey so far
+
+<table>
+<tr>
+<td width="24%" valign="top"><sub><b>AUG 2026 → NOW</b></sub></td>
+<td valign="top">
+
+🟠 &nbsp;**Renegade Solutions Asia** · <i>Backend Engineer, Islamabad</i>
+
+Sharing ownership of the backend and the payments, KYC and notification integrations for a digital rotating savings platform. Wrote the 128 page architecture document (C4, STRIDE, six ADRs), designed a double entry ledger in PostgreSQL with a transactional outbox and a reconciliation gate that blocks payouts on any mismatch, moved the data from MongoDB into 48+ tables, and built the FastAPI services with JWT, MFA and RBAC. I present progress to leadership in Canada and the United States.
+
+</td>
+</tr>
+<tr>
+<td valign="top"><sub><b>MAR 2026 → JUL 2026</b></sub></td>
+<td valign="top">
+
+🟡 &nbsp;**Tech Solutions.ae** · <i>Python Developer, Remote (Sharjah)</i>
+
+Built and looked after ETL pipelines and automation on AWS Lambda, S3 and IAM, owned production issues from the first alert to the final fix, and wrote FastAPI endpoints. Promoted from junior after three months.
+
+</td>
+</tr>
+<tr>
+<td valign="top"><sub><b>NOV 2025 → MAR 2026</b></sub></td>
+<td valign="top">
+
+🟣 &nbsp;**Zindigi** · <i>Junior Java Developer, Islamabad</i>
+
+Spring Boot microservices and secure REST APIs for live banking transactions, plus SQL tuning on the core banking platform.
+
+</td>
+</tr>
+<tr>
+<td valign="top"><sub><b>MAY 2024 → NOV 2025</b></sub></td>
+<td valign="top">
+
+🟠 &nbsp;**RedCoast** · <i>Trainee → Junior → Software Engineer, Islamabad</i>
+
+Reworked schemas with partitioning and indexing for 60% faster queries and 30% lower scan costs, automated 80% of ML orchestration on GCP, shipped FastAPI services under 150 ms at p95, and built backfill pipelines and dashboards used by 50+ people.
+
+</td>
+</tr>
+<tr>
+<td valign="top"><sub><b>JUN 2023 → DEC 2023</b></sub></td>
+<td valign="top">
+
+🟡 &nbsp;**PTCL** · <i>Workforce Planning and Automation Intern, Islamabad</i>
+
+An internal task manager in C# and ASP.NET MVC with role based access on SQL Server.
+
+</td>
+</tr>
+<tr>
+<td valign="top"><sub><b>2021 → 2025</b></sub></td>
+<td valign="top">
+
+🎓 &nbsp;**FAST NUCES** · <i>BS Computer Science, Islamabad</i>
+
+Recognised by the university for unHinged, a procedural game system that holds 60 FPS on low end hardware.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ─────────────── HOW I WORK ─────────────── -->
+
+### 🔁 &nbsp;How I work
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center">
+
+<h3>①</h3>
+
+**Listen**
+
+<sub>We talk about the problem, the people it affects and what success looks like.</sub>
+
+</td>
+<td width="25%" valign="top" align="center">
+
+<h3>②</h3>
+
+**Sketch**
+
+<sub>Diagrams, decision records and the risks I can see. Cheap to change, easy to share.</sub>
+
+</td>
+<td width="25%" valign="top" align="center">
+
+<h3>③</h3>
+
+**Build**
+
+<sub>Small slices, shipped often, with tests and reviews on every pull request.</sub>
+
+</td>
+<td width="25%" valign="top" align="center">
+
+<h3>④</h3>
+
+**Hand over**
+
+<sub>Clear docs, dashboards and a calm handover so the team owns it with confidence.</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ─────────────── BELIEFS ─────────────── -->
+
+### 💡 &nbsp;A few opinions, gently held
+
+> 🟨 &nbsp;**Boring tech, done well.** &nbsp;Postgres and a clear schema beat a shiny stack nobody can debug at midnight.
+
+> 🟪 &nbsp;**If money moves, it is idempotent.** &nbsp;Retries happen. Networks blink. A payout should never happen twice because of it.
+
+> 🟥 &nbsp;**Write it down.** &nbsp;Decision records and diagrams turn tribal knowledge into something the whole team can use.
+
+> 🟨 &nbsp;**AI earns its seat.** &nbsp;A model goes in when it makes the product better, not because it makes a nice demo.
+
+<br>
+
+<!-- ─────────────── STACK ─────────────── -->
+
+<h3 align="center">🧰 &nbsp;The toolbox</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1A4A,50:1A1A2E,100:0D0D0D&height=100&section=footer&reversal=false" alt="Footer" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,java,spring,ts,react,nextjs&theme=light" alt="Languages and frameworks" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,aws,gcp,docker,kubernetes,jenkins&theme=light" alt="Data and cloud" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,pytorch,cs,godot&theme=light" alt="Tools" />
+</p>
+
+<p align="center"><sub><i>Python is home. Java when banking infrastructure asks for it. Everything else gets picked when the problem justifies it.</i></sub></p>
+
+<br>
+
+<!-- ─────────────── ACTIVITY ─────────────── -->
+
+<h3 align="center">🌱 &nbsp;What I have been up to on GitHub</h3>
+
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arham331&bg_color=FFFCF6&color=231A1F&title_color=E9543A&line=E9543A&point=F4B134&area=true&area_color=F4B134&hide_border=true&radius=16" alt="GitHub contribution graph" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arham331&show_icons=true&hide_border=true&border_radius=16&rank_icon=github&title_color=E9543A&icon_color=58284E&text_color=231A1F&ring_color=F4B134&bg_color=FFFCF6&cache_seconds=1800" alt="GitHub stats" />
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arham331&layout=compact&hide_border=true&border_radius=16&title_color=E9543A&text_color=231A1F&bg_color=FFFCF6&langs_count=6&cache_seconds=1800" alt="Top languages" />
+</p>
+
+<br>
+
+<!-- ─────────────── CONTACT ─────────────── -->
+
+<h3 align="center">💌 &nbsp;Got an idea, a role or a question?</h3>
+
+<p align="center">
+  I reply to every message, usually within a day. Hiring for a backend or data role <b>anywhere in the world</b>,<br>
+  need a second pair of eyes on an architecture, or just want to swap notes? Drop a line.
+</p>
+
+<p align="center">
+  <a href="mailto:arham3311@outlook.com"><img src="https://img.shields.io/badge/arham3311@outlook.com-E9543A?style=for-the-badge&logo=maildotru&logoColor=FFFCF6" alt="Email" /></a>
+  <a href="https://arham-nexus.vercel.app/#contact"><img src="https://img.shields.io/badge/Contact%20form-F4B134?style=for-the-badge&logo=vercel&logoColor=231A1F" alt="Contact form" /></a>
+  <a href="https://www.linkedin.com/in/arham-malik-943152352/"><img src="https://img.shields.io/badge/LinkedIn-58284E?style=for-the-badge&logoColor=FFFCF6" alt="LinkedIn" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9543A,55:F4B134,100:F7F2EA&height=120&section=footer&text=Good%20vibes%20only&fontSize=22&fontColor=231A1F&fontAlignY=72" alt="Good vibes only" />
 </p>
